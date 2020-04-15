@@ -1,0 +1,15 @@
+.centered{
+text-align: center;
+}
+header {
+  font-size: large;
+  font-weight: bold;
+}
+
+.medium {
+  font-size: medium;
+  font-style: italic;
+}
+#small {
+  font-size: 200px;
+}
